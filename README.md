@@ -1,5 +1,5 @@
 # Mathematics-for-Computing-Assignment-
-Name: **ALEN FRANCIS JOSEPH**
+Name: **Poojitha Santhosh**
 
 Course: **M.Tech in Computer Science and Engineering with specialization in AI and Software Engineering**
 
